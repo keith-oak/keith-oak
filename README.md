@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kpqdap. I'm the AI Engineer who leads the technical team within the central AI Unit for the Queensland government.
+- 👀 I’m interested in **responsible AI**, making technology safe and ensuring its responsible use is accessible. I'm dedicated to ensuring both government and the private sector make meaningful and impactful strides in progress.
+- 🌱 I **believe in the future of GenAI** - as a language barrier remover, as a personal teacher, as a means to break down years of inequality.
+- 💞️ I’m looking to collaborate on projects related to **AI ethics**, **responsible AI implementation**, and **technology accessibility**. My goal is to leverage AI in ways that enhance our lives while addressing and mitigating any potential risks or inequalities.
+- 📫 **How to reach me:** Feel free to follow me on [LinkedIn: Keith Oak](https://www.linkedin.com/in/keithoak) for the latest updates on my projects, research and insights into responsible AI use.
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** When I'm not working on AI projects or advocating for responsible technology use, I indulge in building intricate Star Wars Lego sets and spending quality time with my golden labrador, Obi Wan Kenobi.
