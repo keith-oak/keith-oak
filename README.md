@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kpqdap. I'm the AI Engineer who leads the technical team within the central AI Unit for the Queensland government.
+- 👋 Hi, I’m @kpqdap. I'm the AI Engineer who used to lead the technical team within the central AI Unit for the Queensland government.
 - 👀 I’m interested in **responsible AI**, making technology safe and ensuring its responsible use is accessible. I'm dedicated to ensuring both government and the private sector make meaningful and impactful strides in progress.
 - 🌱 I **believe in the future of GenAI** - as a language barrier remover, as a personal teacher, as a means to break down years of inequality.
 - 💞️ I’m looking to collaborate on projects related to **AI ethics**, **responsible AI implementation**, and **technology accessibility**. My goal is to leverage AI in ways that enhance our lives while addressing and mitigating any potential risks or inequalities.
