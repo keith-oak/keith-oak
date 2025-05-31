@@ -1,7 +1,60 @@
-- 👋 Hi, I’m @keith-oak. I'm the AI Engineer who used to lead the technical team within the central AI Unit for the Queensland government.
-- 👀 I’m interested in **responsible AI**, making technology safe and ensuring its responsible use is accessible. I'm dedicated to ensuring both government and the private sector make meaningful and impactful strides in progress.
-- 🌱 I **believe in the future of GenAI** - as a language barrier remover, as a personal teacher, as a means to break down years of inequality.
-- 💞️ I’m looking to collaborate on projects related to **AI ethics**, **responsible AI implementation**, and **technology accessibility**. My goal is to leverage AI in ways that enhance our lives while addressing and mitigating any potential risks or inequalities.
-- 📫 **How to reach me:** Feel free to follow me on [LinkedIn: Keith Oak](https://www.linkedin.com/in/keithoak) for the latest updates on my projects, research and insights into responsible AI use.
+# Hi there, I'm Keith Oak 👋
+
+## 🚀 About Me
+
+I'm an AI Engineer passionate about **responsible AI** and making technology safe, ethical, and accessible to all. Previously, I led the technical team within the central AI Unit for the Queensland government, where I focused on implementing AI solutions that serve the public good.
+
+## 💡 My Mission
+
+I believe in the transformative power of GenAI to:
+
+- 🌍 **Break down language barriers** - Making communication universal
+- 📚 **Democratise education** - Providing personalised learning experiences
+- ⚖️ **Address inequality** - Creating opportunities for under-served communities
+
+## 🔍 Areas of Focus
+
+### Responsible AI Implementation
+
+Developing frameworks and best practices for ethical AI deployment in both government and private sectors.
+
+### AI Ethics & Governance
+
+Ensuring AI systems are transparent, accountable, and aligned with human values.
+
+### Technology Accessibility
+
+Making advanced AI tools available and usable for everyone, regardless of technical background.
+
+## 🤝 Let's Collaborate
+
+I'm actively seeking partnerships on projects involving:
+
+- **AI ethics frameworks**
+- **Responsible AI implementation strategies**
+- **Technology accessibility initiatives**
+- **Public sector AI transformation**
+
+## 📊 Current Interests
+
+- Exploring the intersection of AI and public policy
+- Developing AI literacy programs
+- Building tools for AI transparency and explainability
+- Researching bias mitigation techniques in LLMs
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keith%20Oak-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/keithoak)
+
+Stay updated on my latest projects, research, and insights into responsible AI use.
+
+## 🎯 Quick Facts
+
 - 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** When I'm not working on AI projects or advocating for responsible technology use, I indulge in building intricate Star Wars Lego sets and spending quality time with my golden labrador, Obi Wan Kenobi.
+- 🏢 **Background:** Former Technical Lead, Queensland Government AI Unit
+- 🎓 **Expertise:** AI Engineering, Ethics, Public Sector Innovation
+- ⚡ **Fun fact:** When I'm not working on AI projects, you'll find me building intricate Star Wars Lego sets 🚀 or spending quality time with my golden labrador, Obi Wan Kenobi 🐕
+
+---
+
+> "Technology should enhance our lives while addressing potential risks and inequalities."
