@@ -14,6 +14,10 @@ I believe in the transformative power of GenAI to:
 - 📚 **Democratise education** - Providing personalised learning experiences  
 - ⚖️ **Address inequality** - Creating opportunities for under-served communities  
 
+## 🛠️ Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=azure,python,typescript,nodejs,react,cs,dotnet,powershell,docker,vscode,git,github,mssql,redis,html,css,materialui,vite,jest,eslint)](https://skillicons.dev)
+
 ## 🔍 Areas of Focus
 
 ### Responsible AI Implementation
