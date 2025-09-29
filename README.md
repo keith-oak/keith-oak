@@ -18,17 +18,20 @@ I believe in the transformative power of GenAI to:
 
 [![My Skills](https://skillicons.dev/icons?i=azure,python,typescript,nodejs,react,cs,dotnet,powershell,docker,vscode&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,mssql,redis,html,css,materialui,vite,jest,eslint&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,redis,html,css,materialui,vite,jest,eslint&perline=10)](https://skillicons.dev)
 
 ## 🔍 Areas of Focus
 
 ### Responsible AI Implementation
+
 Developing frameworks and best practices for ethical AI deployment in both government and private sectors.
 
 ### AI Ethics & Governance
+
 Ensuring AI systems are transparent, accountable, and aligned with human values.
 
 ### Technology Accessibility
+
 Making advanced AI tools available and usable for everyone, regardless of technical background.
 
 ## 🤝 Let's Collaborate
