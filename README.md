@@ -16,7 +16,9 @@ I believe in the transformative power of GenAI to:
 
 ## 🛠️ Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=azure,python,typescript,nodejs,react,cs,dotnet,powershell,docker,vscode,git,github,mssql,redis,html,css,materialui,vite,jest,eslint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,python,typescript,nodejs,react,cs,dotnet,powershell,docker,vscode&perline=10)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,mssql,redis,html,css,materialui,vite,jest,eslint&perline=10)](https://skillicons.dev)
 
 ## 🔍 Areas of Focus
 
