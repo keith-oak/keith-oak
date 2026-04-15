@@ -1,93 +1,108 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-label="Tech stack — Languages, Microsoft Cloud & Data, AI & Agentic Systems, Developer Platform & DevSecOps">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="Tech stack">
   <defs>
     <linearGradient id="pillBg" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#1a1530"/>
       <stop offset="100%" stop-color="#120d22"/>
     </linearGradient>
-    <linearGradient id="pillBgLight" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#f3f0fa"/>
-      <stop offset="100%" stop-color="#e8e3f5"/>
-    </linearGradient>
-    <style><![CDATA[
-      .label { font-family: 'Mona Sans', 'DM Sans', -apple-system, system-ui, sans-serif; font-weight: 700; font-size: 16px; letter-spacing: -0.2px; fill: #e6edf3; }
-      .pill-text { font-family: 'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace; font-size: 12px; font-weight: 500; fill: #d8cfef; }
-      .pill-bg { fill: url(#pillBg); stroke: #7454b3; stroke-width: 1; stroke-opacity: 0.35; }
-      @media (prefers-color-scheme: light) {
-        .label { fill: #0b0c10; }
-        .pill-text { fill: #271d3b; }
-        .pill-bg { fill: url(#pillBgLight); stroke: #7454b3; stroke-opacity: 0.45; }
-      }
-    ]]></style>
   </defs>
 
-  <!-- ============ Languages ============ -->
+  <!-- Languages -->
   <g transform="translate(0,0)">
-    <text class="label" x="0" y="20">Languages</text>
+    <text x="0" y="20" font-family="'Mona Sans','DM Sans',system-ui,sans-serif" font-weight="700" font-size="16" fill="#e6edf3">Languages</text>
     <line x1="0" y1="32" x2="1200" y2="32" stroke="#7454b3" stroke-opacity="0.25" stroke-width="1"/>
-
     <g transform="translate(0,52)">
-      <rect class="pill-bg" x="0"    y="0" rx="5" ry="5" width="108" height="30"/><text class="pill-text" x="14" y="19">TypeScript</text>
-      <rect class="pill-bg" x="118"  y="0" rx="5" ry="5" width="76"  height="30"/><text class="pill-text" x="132" y="19">Python</text>
-      <rect class="pill-bg" x="204"  y="0" rx="5" ry="5" width="96"  height="30"/><text class="pill-text" x="218" y="19">C# / .NET</text>
-      <rect class="pill-bg" x="310"  y="0" rx="5" ry="5" width="104" height="30"/><text class="pill-text" x="324" y="19">PowerShell</text>
-      <rect class="pill-bg" x="424"  y="0" rx="5" ry="5" width="96"  height="30"/><text class="pill-text" x="438" y="19">SQL / KQL</text>
-      <rect class="pill-bg" x="530"  y="0" rx="5" ry="5" width="56"  height="30"/><text class="pill-text" x="544" y="19">Dart</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="0"    y="0" rx="5" ry="5" width="108" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="14" y="20">TypeScript</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="118"  y="0" rx="5" ry="5" width="76"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="132" y="20">Python</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="204"  y="0" rx="5" ry="5" width="96"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="218" y="20">C# / .NET</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="310"  y="0" rx="5" ry="5" width="104" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="324" y="20">PowerShell</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="424"  y="0" rx="5" ry="5" width="96"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="438" y="20">SQL / KQL</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="530"  y="0" rx="5" ry="5" width="56"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="544" y="20">Dart</text>
     </g>
   </g>
 
-  <!-- ============ Microsoft Cloud & Data ============ -->
+  <!-- Microsoft Cloud & Data -->
   <g transform="translate(0,130)">
-    <text class="label" x="0" y="20">Microsoft Cloud &amp; Data</text>
+    <text x="0" y="20" font-family="'Mona Sans','DM Sans',system-ui,sans-serif" font-weight="700" font-size="16" fill="#e6edf3">Microsoft Cloud &amp; Data</text>
     <line x1="0" y1="32" x2="1200" y2="32" stroke="#7454b3" stroke-opacity="0.25" stroke-width="1"/>
-
     <g transform="translate(0,52)">
-      <rect class="pill-bg" x="0"    y="0" rx="5" ry="5" width="64"  height="30"/><text class="pill-text" x="14" y="19">Azure</text>
-      <rect class="pill-bg" x="74"   y="0" rx="5" ry="5" width="144" height="30"/><text class="pill-text" x="88" y="19">Microsoft Fabric</text>
-      <rect class="pill-bg" x="228"  y="0" rx="5" ry="5" width="78"  height="30"/><text class="pill-text" x="242" y="19">Purview</text>
-      <rect class="pill-bg" x="316"  y="0" rx="5" ry="5" width="138" height="30"/><text class="pill-text" x="330" y="19">Power Platform</text>
-      <rect class="pill-bg" x="464"  y="0" rx="5" ry="5" width="92"  height="30"/><text class="pill-text" x="478" y="19">Power BI</text>
-      <rect class="pill-bg" x="566"  y="0" rx="5" ry="5" width="118" height="30"/><text class="pill-text" x="580" y="19">Dynamics 365</text>
-      <rect class="pill-bg" x="694"  y="0" rx="5" ry="5" width="86"  height="30"/><text class="pill-text" x="708" y="19">Entra ID</text>
-      <rect class="pill-bg" x="790"  y="0" rx="5" ry="5" width="90"  height="30"/><text class="pill-text" x="804" y="19">Defender</text>
-      <rect class="pill-bg" x="890"  y="0" rx="5" ry="5" width="84"  height="30"/><text class="pill-text" x="904" y="19">PySpark</text>
-      <rect class="pill-bg" x="984"  y="0" rx="5" ry="5" width="96"  height="30"/><text class="pill-text" x="998" y="19">Delta Lake</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="0"    y="0" rx="5" ry="5" width="64"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="14" y="20">Azure</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="74"   y="0" rx="5" ry="5" width="144" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="88" y="20">Microsoft Fabric</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="228"  y="0" rx="5" ry="5" width="78"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="242" y="20">Purview</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="316"  y="0" rx="5" ry="5" width="138" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="330" y="20">Power Platform</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="464"  y="0" rx="5" ry="5" width="92"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="478" y="20">Power BI</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="566"  y="0" rx="5" ry="5" width="118" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="580" y="20">Dynamics 365</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="694"  y="0" rx="5" ry="5" width="86"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="708" y="20">Entra ID</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="790"  y="0" rx="5" ry="5" width="90"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="804" y="20">Defender</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="890"  y="0" rx="5" ry="5" width="84"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="904" y="20">PySpark</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="984"  y="0" rx="5" ry="5" width="96"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="998" y="20">Delta Lake</text>
     </g>
   </g>
 
-  <!-- ============ AI & Agentic Systems ============ -->
+  <!-- AI & Agentic Systems -->
   <g transform="translate(0,260)">
-    <text class="label" x="0" y="20">AI &amp; Agentic Systems</text>
+    <text x="0" y="20" font-family="'Mona Sans','DM Sans',system-ui,sans-serif" font-weight="700" font-size="16" fill="#e6edf3">AI &amp; Agentic Systems</text>
     <line x1="0" y1="32" x2="1200" y2="32" stroke="#7454b3" stroke-opacity="0.25" stroke-width="1"/>
-
     <g transform="translate(0,52)">
-      <rect class="pill-bg" x="0"    y="0" rx="5" ry="5" width="148" height="30"/><text class="pill-text" x="14" y="19">Azure AI Foundry</text>
-      <rect class="pill-bg" x="158"  y="0" rx="5" ry="5" width="118" height="30"/><text class="pill-text" x="172" y="19">Azure OpenAI</text>
-      <rect class="pill-bg" x="286"  y="0" rx="5" ry="5" width="124" height="30"/><text class="pill-text" x="300" y="19">Copilot Studio</text>
-      <rect class="pill-bg" x="420"  y="0" rx="5" ry="5" width="172" height="30"/><text class="pill-text" x="434" y="19">Microsoft 365 Copilot</text>
-      <rect class="pill-bg" x="602"  y="0" rx="5" ry="5" width="142" height="30"/><text class="pill-text" x="616" y="19">Semantic Kernel</text>
-      <rect class="pill-bg" x="754"  y="0" rx="5" ry="5" width="68"  height="30"/><text class="pill-text" x="768" y="19">Claude</text>
-      <rect class="pill-bg" x="832"  y="0" rx="5" ry="5" width="96"  height="30"/><text class="pill-text" x="846" y="19">LangGraph</text>
-      <rect class="pill-bg" x="938"  y="0" rx="5" ry="5" width="52"  height="30"/><text class="pill-text" x="952" y="19">MCP</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="0"    y="0" rx="5" ry="5" width="148" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="14" y="20">Azure AI Foundry</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="158"  y="0" rx="5" ry="5" width="118" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="172" y="20">Azure OpenAI</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="286"  y="0" rx="5" ry="5" width="124" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="300" y="20">Copilot Studio</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="420"  y="0" rx="5" ry="5" width="172" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="434" y="20">Microsoft 365 Copilot</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="602"  y="0" rx="5" ry="5" width="142" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="616" y="20">Semantic Kernel</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="754"  y="0" rx="5" ry="5" width="68"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="768" y="20">Claude</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="832"  y="0" rx="5" ry="5" width="96"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="846" y="20">LangGraph</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="938"  y="0" rx="5" ry="5" width="52"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="952" y="20">MCP</text>
     </g>
   </g>
 
-  <!-- ============ Developer Platform & DevSecOps ============ -->
+  <!-- Developer Platform & DevSecOps -->
   <g transform="translate(0,390)">
-    <text class="label" x="0" y="20">Developer Platform &amp; DevSecOps</text>
+    <text x="0" y="20" font-family="'Mona Sans','DM Sans',system-ui,sans-serif" font-weight="700" font-size="16" fill="#e6edf3">Developer Platform &amp; DevSecOps</text>
     <line x1="0" y1="32" x2="1200" y2="32" stroke="#7454b3" stroke-opacity="0.25" stroke-width="1"/>
-
     <g transform="translate(0,52)">
-      <rect class="pill-bg" x="0"    y="0" rx="5" ry="5" width="158" height="30"/><text class="pill-text" x="14" y="19">GitHub Enterprise</text>
-      <rect class="pill-bg" x="168"  y="0" rx="5" ry="5" width="138" height="30"/><text class="pill-text" x="182" y="19">GitHub Copilot</text>
-      <rect class="pill-bg" x="316"  y="0" rx="5" ry="5" width="210" height="30"/><text class="pill-text" x="330" y="19">GitHub Advanced Security</text>
-      <rect class="pill-bg" x="536"  y="0" rx="5" ry="5" width="138" height="30"/><text class="pill-text" x="550" y="19">GitHub Actions</text>
-      <rect class="pill-bg" x="684"  y="0" rx="5" ry="5" width="128" height="30"/><text class="pill-text" x="698" y="19">Azure DevOps</text>
-      <rect class="pill-bg" x="822"  y="0" rx="5" ry="5" width="58"  height="30"/><text class="pill-text" x="836" y="19">Bicep</text>
-      <rect class="pill-bg" x="890"  y="0" rx="5" ry="5" width="96"  height="30"/><text class="pill-text" x="904" y="19">Terraform</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="0"    y="0" rx="5" ry="5" width="158" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="14" y="20">GitHub Enterprise</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="168"  y="0" rx="5" ry="5" width="138" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="182" y="20">GitHub Copilot</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="316"  y="0" rx="5" ry="5" width="210" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="330" y="20">GitHub Advanced Security</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="536"  y="0" rx="5" ry="5" width="138" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="550" y="20">GitHub Actions</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="684"  y="0" rx="5" ry="5" width="128" height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="698" y="20">Azure DevOps</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="822"  y="0" rx="5" ry="5" width="58"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="836" y="20">Bicep</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="890"  y="0" rx="5" ry="5" width="96"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="904" y="20">Terraform</text>
     </g>
     <g transform="translate(0,92)">
-      <rect class="pill-bg" x="0"    y="0" rx="5" ry="5" width="72"  height="30"/><text class="pill-text" x="14" y="19">Docker</text>
-      <rect class="pill-bg" x="82"   y="0" rx="5" ry="5" width="92"  height="30"/><text class="pill-text" x="96" y="19">Key Vault</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="0"    y="0" rx="5" ry="5" width="72"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="14" y="20">Docker</text>
+      <rect fill="url(#pillBg)" stroke="#7454b3" stroke-opacity="0.35" x="82"   y="0" rx="5" ry="5" width="92"  height="30"/>
+      <text font-family="'JetBrains Mono',monospace" font-size="12" font-weight="500" fill="#d8cfef" x="96" y="20">Key Vault</text>
     </g>
   </g>
 </svg>
