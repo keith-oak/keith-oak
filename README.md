@@ -14,29 +14,20 @@ I lead technology at **[Lucid Labs](https://lucidlabs.com.au)**, a Microsoft Sol
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/headings/practice-areas-dark.svg#gh-dark-mode-only" alt="// Practice areas">
-      <img src="./assets/headings/practice-areas-light.svg#gh-light-mode-only" alt="// Practice areas">
-      <ul>
-        <li>Data &amp; AI platform strategy</li>
-        <li>Agentic AI &amp; enterprise Copilot adoption</li>
-        <li>GitHub Enterprise &amp; DevSecOps modernisation</li>
-        <li>AI governance, assurance &amp; responsible-use</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/headings/currently-dark.svg#gh-dark-mode-only" alt="// Currently">
-      <img src="./assets/headings/currently-light.svg#gh-light-mode-only" alt="// Currently">
-      <ul>
-        <li>Scaling Lucid Labs' Data &amp; AI and GitHub practices</li>
-        <li>Enterprise Microsoft Fabric &amp; Purview modernisation</li>
-        <li>Driving developer adoption of GitHub Copilot &amp; Advanced Security</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="./assets/headings/practice-areas-dark.svg#gh-dark-mode-only" alt="// Practice areas">
+<img src="./assets/headings/practice-areas-light.svg#gh-light-mode-only" alt="// Practice areas">
+
+- Data & AI platform strategy
+- Agentic AI & enterprise Copilot adoption
+- GitHub Enterprise & DevSecOps modernisation
+- AI governance, assurance & responsible-use
+
+<img src="./assets/headings/currently-dark.svg#gh-dark-mode-only" alt="// Currently">
+<img src="./assets/headings/currently-light.svg#gh-light-mode-only" alt="// Currently">
+
+- Scaling Lucid Labs' Data & AI and GitHub practices
+- Enterprise Microsoft Fabric & Purview modernisation
+- Driving developer adoption of GitHub Copilot & Advanced Security
 
 <br/>
 
