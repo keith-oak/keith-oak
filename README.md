@@ -17,10 +17,8 @@ I lead technology at **[Lucid Labs](https://lucidlabs.com.au)**, a Microsoft Sol
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/practice-areas-dark.svg">
-        <img src="./assets/headings/practice-areas-light.svg" alt="// Practice areas">
-      </picture>
+      <img src="./assets/headings/practice-areas-dark.svg#gh-dark-mode-only" alt="// Practice areas">
+      <img src="./assets/headings/practice-areas-light.svg#gh-light-mode-only" alt="// Practice areas">
       <ul>
         <li>Data &amp; AI platform strategy</li>
         <li>Agentic AI &amp; enterprise Copilot adoption</li>
@@ -29,10 +27,8 @@ I lead technology at **[Lucid Labs](https://lucidlabs.com.au)**, a Microsoft Sol
       </ul>
     </td>
     <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/currently-dark.svg">
-        <img src="./assets/headings/currently-light.svg" alt="// Currently">
-      </picture>
+      <img src="./assets/headings/currently-dark.svg#gh-dark-mode-only" alt="// Currently">
+      <img src="./assets/headings/currently-light.svg#gh-light-mode-only" alt="// Currently">
       <ul>
         <li>Scaling Lucid Labs' Data &amp; AI and GitHub practices</li>
         <li>Enterprise Microsoft Fabric &amp; Purview modernisation</li>
@@ -44,10 +40,8 @@ I lead technology at **[Lucid Labs](https://lucidlabs.com.au)**, a Microsoft Sol
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/stack-dark.svg">
-  <img src="./assets/headings/stack-light.svg" alt="// Stack">
-</picture>
+<img src="./assets/headings/stack-dark.svg#gh-dark-mode-only" alt="// Stack">
+<img src="./assets/headings/stack-light.svg#gh-light-mode-only" alt="// Stack">
 
 **Languages**
 
