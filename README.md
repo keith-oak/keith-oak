@@ -12,8 +12,6 @@
 
 I lead technology at **[Lucid Labs](https://lucidlabs.com.au)**, a Microsoft Solutions Partner and GitHub Partner helping Australian enterprise and government organisations modernise the way they build, govern, and deliver software. My work sits at the intersection of **Data & AI**, **Developer Platforms**, and the **responsible adoption** of both — translating strategy into production systems people actually use.
 
-<br/>
-
 <img src="./assets/headings/practice-areas-dark.svg#gh-dark-mode-only" alt="// Practice areas">
 <img src="./assets/headings/practice-areas-light.svg#gh-light-mode-only" alt="// Practice areas">
 
@@ -28,8 +26,6 @@ I lead technology at **[Lucid Labs](https://lucidlabs.com.au)**, a Microsoft Sol
 - Scaling Lucid Labs' Data & AI and GitHub practices
 - Enterprise Microsoft Fabric & Purview modernisation
 - Driving developer adoption of GitHub Copilot & Advanced Security
-
-<br/>
 
 <img src="./assets/headings/stack-dark.svg#gh-dark-mode-only" alt="// Stack">
 <img src="./assets/headings/stack-light.svg#gh-light-mode-only" alt="// Stack">
