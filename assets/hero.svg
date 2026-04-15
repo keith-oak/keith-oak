@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-label="Keith Oak — Chief Technology Officer · Lucid Labs">
+  <defs>
+    <linearGradient id="lucidGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#271d3b"/>
+      <stop offset="50%"  stop-color="#7454b3"/>
+      <stop offset="100%" stop-color="#677eb2"/>
+    </linearGradient>
+    <radialGradient id="coolHighlight" cx="10%" cy="10%" r="50%">
+      <stop offset="0%" stop-color="#677eb2" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#677eb2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="bottomShade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b0c10" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0b0c10" stop-opacity="0.22"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base gradient + overlays -->
+  <rect width="1200" height="340" rx="12" fill="url(#lucidGrad)"/>
+  <rect width="1200" height="340" rx="12" fill="url(#coolHighlight)"/>
+  <rect width="1200" height="340" rx="12" fill="url(#bottomShade)"/>
+
+  <!-- Eyebrow / mark -->
+  <text x="72" y="92"
+        font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace"
+        font-size="13" font-weight="500"
+        letter-spacing="3.6"
+        fill="#ffffff" fill-opacity="0.72">// BRISBANE · AU</text>
+
+  <!-- Keith Oak -->
+  <text x="70" y="200"
+        font-family="'Mona Sans', 'DM Sans', -apple-system, system-ui, sans-serif"
+        font-size="90" font-weight="800"
+        letter-spacing="-3"
+        fill="#ffffff">Keith Oak</text>
+
+  <!-- Rule -->
+  <rect x="72" y="232" width="56" height="2" fill="#ffffff" fill-opacity="0.85"/>
+
+  <!-- Title -->
+  <text x="72" y="278"
+        font-family="'Mona Sans', 'DM Sans', -apple-system, system-ui, sans-serif"
+        font-size="22" font-weight="500"
+        letter-spacing="-0.3"
+        fill="#ffffff" fill-opacity="0.96">Chief Technology Officer<tspan fill-opacity="0.55" dx="14">·</tspan><tspan dx="14">Lucid Labs</tspan></text>
+</svg>
